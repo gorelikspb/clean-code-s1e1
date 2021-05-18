@@ -1,3 +1,7 @@
+Задание: рефакторингу кода согласно руководству https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/clean-code/guidelines/html-and-css
+
+Процесс выполнения удобно отследить по истории коммитов: https://github.com/gorelikspb/clean-code-s1e1/pull/1/commits
+
 <img width="1199" alt="code-quality-task-screenshot" src="https://user-images.githubusercontent.com/8201843/113413843-4080fb80-93c4-11eb-9f20-15e4b4c1e430.png">
 
 # Функционал приложения :
